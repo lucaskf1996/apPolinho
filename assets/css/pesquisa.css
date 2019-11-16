@@ -1,0 +1,21 @@
+body{
+	background-color: #fdfffc;
+}
+.pesquisa{
+	display: flex;
+	justify-content: center;
+	font-size: 2.5rem;
+	flex-direction: column;
+	text-align: center;
+	margin-top: 1.5rem;
+}
+.busca{
+	margin-top: 1.5rem;
+	margin-bottom: 0.5rem;
+	font-size: 2rem;
+}
+.confirmar{
+	display: flex;
+	justify-content: center;
+	margin-top: 0.5rem;
+}
