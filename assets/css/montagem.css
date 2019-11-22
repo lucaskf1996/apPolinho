@@ -33,13 +33,19 @@ header{
 }
 
 .center{
+  width: 100%;
   margin-top: 7%;
   margin-bottom: 7%;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
 }
 
 .check{
 	width: 40px;
 	height: 40px;
+}
+
+.mais{
+  width: 40px;
+  height: 40px;
 }
