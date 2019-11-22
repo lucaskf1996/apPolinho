@@ -1,3 +1,6 @@
+body{
+	background-color: #FFFFFF;
+}
 .centro{
 	display: flex;
 	flex-direction: column;
