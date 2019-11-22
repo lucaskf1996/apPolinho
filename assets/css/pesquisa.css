@@ -18,7 +18,7 @@ header{
 
 .espacito{
 	margin-top: 3rem;
-	font-size: 2rem;
+	font-size: 1.5rem;
 }
 
 .pesquisa{
@@ -29,7 +29,7 @@ header{
 	font-size: 2.5rem;
 	flex-direction: column;
 	text-align: center;
-	margin-top: 3rem;
+  margin-top: 10%;
 }
 .busca{
 	margin-top: 3rem;
