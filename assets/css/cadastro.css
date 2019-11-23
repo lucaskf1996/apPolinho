@@ -2,20 +2,35 @@ body{
 	background-color: #fdfffc;
 }
 .cadastro{
+	font-weight: bold;
+  font-family: 'Didact Gothic', sans-serif;
 	display: flex;
 	justify-content: center;
 	font-size: 2.5rem;
 	flex-direction: column;
 	text-align: center;
-	margin-top: 1.5rem;
+  margin-top: 10%;
 }
 .busca{
-	margin-top: 1.5rem;
+	margin-top: 3rem;
 	margin-bottom: 0.5rem;
 	font-size: 2rem;
 }
 .confirmar{
 	display: flex;
 	justify-content: center;
-	margin-top: 0.5rem;
+	margin-top: 2.5rem;
+}
+
+header{
+  background-color: #f71735;
+  width: 100%;
+  height: 50px;
+}
+
+.voltar{
+  margin-left: 10px;
+  margin-top: 10px;
+  width: 30px;
+  height: 30px;
 }
