@@ -23,6 +23,16 @@ header{
   height: 30px;
 }
 
+.titulo{
+	margin-top: 7%;
+	font-weight: bold;
+	font-size: 2rem;
+	font-family: 'Didact Gothic', sans-serif;
+	margin-left: 5%;
+	margin-right: 5%;
+	text-align: center;
+}
+
 .title{
 	margin-top: 1rem;
 	font-weight: bold;
@@ -47,4 +57,8 @@ header{
   width: 80%;
   height: 420px;
   align-items: center;
+}
+
+.espacito{
+	margin-top: 20%;
 }
